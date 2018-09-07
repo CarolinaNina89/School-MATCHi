@@ -4,7 +4,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import matchiDemoSecondSprint.MatchiBaseline;
+import matchi.MatchiBaseline;
 import matchiDemoSecondSprint.functions.MatchiBookAndPay;
 import matchiDemoSecondSprint.functions.MatchiPayBySwish;
 import matchiDemoSecondSprint.functions.MatchiSearchLogIn;

@@ -1,4 +1,4 @@
-package matchiDemoSecondSprint;
+package matchi;
 
 import java.util.concurrent.TimeUnit;
 
