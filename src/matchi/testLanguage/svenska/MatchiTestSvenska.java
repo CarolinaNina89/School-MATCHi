@@ -1,14 +1,14 @@
-package matchiDemoSecondSprint.testLanguage.svenska;
+package matchi.testLanguage.svenska;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
 import matchi.MatchiBaseline;
-import matchiDemoSecondSprint.functions.MatchiBookAndPay;
-import matchiDemoSecondSprint.functions.MatchiPayBySwish;
-import matchiDemoSecondSprint.functions.MatchiSearchLogIn;
-import matchiDemoSecondSprint.functions.MatchiSearchVenue;
+import matchi.functions.MatchiBookAndPay;
+import matchi.functions.MatchiPayBySwish;
+import matchi.functions.MatchiSearchLogIn;
+import matchi.functions.MatchiSearchVenue;
 
 
 public class MatchiTestSvenska {

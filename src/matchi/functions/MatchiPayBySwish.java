@@ -1,4 +1,4 @@
-package matchiDemoSecondSprint.functions;
+package matchi.functions;
 
 
 import org.openqa.selenium.By;
