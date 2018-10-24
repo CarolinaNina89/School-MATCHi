@@ -4,7 +4,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Methods used by all other classes
- * @author lotber
  *
  */
 
